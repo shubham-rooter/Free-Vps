@@ -52,10 +52,7 @@ Password : ubuntu
 ## Than Ngrok open  Than Follow This Setup  And Coopy Your => tcp://6.tcp.ngrok.io:16161
 ![image](https://user-images.githubusercontent.com/94091556/207829470-26f7361c-d2b2-4e0f-a6c4-2fb115d76765.png)
 
-Username : ubuntu
-Password : ubuntu
-RDP Address:
-6.tcp.ngrok.io:16161
+
 
 ## Open Terminal 
 DOnt Use full Url Remove tcp://
@@ -64,13 +61,16 @@ DOnt Use full Url Remove tcp://
 rdesktop 6.tcp.ngrok.io:16161
 
 ```
+- ![image](https://user-images.githubusercontent.com/94091556/207836170-7c0d0215-9658-4424-9a67-8fbc307e8afb.png)
+
+
 ## Login With UserNmae & Password
 
 - ![image](https://user-images.githubusercontent.com/94091556/207833019-7d554fb3-020c-4eca-888e-183e689b9e41.png)
 
 ## Congratulations Rdp Create Succesfull 🎉
 
-![image](https://user-images.githubusercontent.com/94091556/207833567-cc6bc386-1ffd-4b43-a362-c327d9973c59.png)
+- ![image](https://user-images.githubusercontent.com/94091556/207833567-cc6bc386-1ffd-4b43-a362-c327d9973c59.png)
 
 
 
