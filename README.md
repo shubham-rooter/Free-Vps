@@ -3,6 +3,9 @@
     
 ## Features
 - Easy to Setup
+- Liffe Time Free VPS Linux
+- Fast Downloding Speed
+- 2nd Virtual Linux Cloud Base
 - 
 
 
@@ -27,7 +30,7 @@ chmod +x kali.sh
 
 
 
-- Use Your Your Authtoken =>  25aiQUAbo70jGfm**************************EnGuMSjwYTaZ2
+## Use Your Your Authtoken =>  25aiQUAbo70jGfm**************************EnGuMSjwYTaZ2
 
 - ![image](https://user-images.githubusercontent.com/94091556/207828466-593b9957-2566-42ad-b4cc-0842ac84545b.png)
 
@@ -46,7 +49,7 @@ Password : ubuntu
 - ![image](https://user-images.githubusercontent.com/94091556/207831771-bc44123a-5084-426e-8de3-495b9095f26b.png)
 
 
-- Than Ngrok open  Than Follow This Setup  And Coopy Your => tcp://6.tcp.ngrok.io:16161
+## Than Ngrok open  Than Follow This Setup  And Coopy Your => tcp://6.tcp.ngrok.io:16161
 ![image](https://user-images.githubusercontent.com/94091556/207829470-26f7361c-d2b2-4e0f-a6c4-2fb115d76765.png)
 
 Username : ubuntu
@@ -71,5 +74,12 @@ rdesktop 6.tcp.ngrok.io:16161
 
 
 
+## Feedback
+
+If you have any feedback, please reach out to us at shubhamrooter@gmail.com
+
+This repo way of your Pentest or Bug bounty.
+
+## Thanks For Using 
 
 
