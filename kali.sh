@@ -32,7 +32,7 @@ curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*publ
 echo "===================================="
 echo "===================================="
 echo "Don't close this tab to keep RDP running"
-echo "Keep support HACKTECHTV CHANNEL thank you"
+echo "Keep support Github Shubham-rooter thank you"
 echo "Wait 2 minute to finish the setup then Run using RDP Address"
 echo "===================================="
 echo "===================================="
