@@ -7,11 +7,16 @@
 - Fast Downloding Speed
 - 2nd Virtual Linux Cloud Base
 
+Open Cloud Shell And login Than Follow Installation
+```
+https://cloud.google.com/shell
+```
 
 ## Installation ⚙️
 
+
 ```
-git clone hhttps://github.com/shubham-rooter/Free-Vps/
+git clone https://github.com/shubham-rooter/Free-Vps/
 
 ```
 ```
